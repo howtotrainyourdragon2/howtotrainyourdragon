@@ -17,3 +17,5 @@ My TO-DO List
 8. get certificate
 
 9. apply for new it job
+
+10. end life
